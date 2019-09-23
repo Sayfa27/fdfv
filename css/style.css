@@ -1,0 +1,88 @@
+
+
+.header-logo{
+
+}
+.header-info{
+
+}
+.header-info nav{
+	
+}
+.header-info ul{
+	
+}
+.header-info li{
+	
+}
+
+
+
+
+.sec-1{
+	background: url(../img/icrowdme-PSD---cssauthor.png)center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+
+}
+.cover{
+	background-color: #00000078;
+	background-size: cover;
+}
+.sec-2-part-1{
+	text-align: center;
+	color: white;
+
+}
+.sec-2-part-1 h1 {
+    padding-top: 60px;
+    color: white;
+}
+.sec-2-part-1 p{
+
+}
+.sec-1-btn {
+    background-color: yellowgreen;
+    color: white;
+    margin-bottom: 98px;
+}
+
+
+.sec-2-info{
+	text-align: center;
+	color: black;
+}
+.fa.fa-address-book {
+    font-size: 63px;
+    padding-bottom: 30px;
+}
+.sec-2-info h1 {
+    width: 50%;
+    margin: 0 auto 38px;
+}
+.sec-2-info p {
+    width: 75%;
+    margin: 0 auto;
+}
+
+/* sec-3  */
+
+.sec-3-part-1{
+
+}
+
+.sec-3-right h1 {
+    font-size: 22px;
+}
+.sec-3-right p {
+    font-size: 15px;
+}
+.sec-3-btn {
+    background-color: #26a6d1;
+    margin: 54px 0px 0px;
+}
+.sec-3-btn2{
+	background-color: #add136;
+}
+
